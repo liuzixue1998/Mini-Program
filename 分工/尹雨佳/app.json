@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/gonglue/gonglue",
+    "pages/detail/detail",
+    "pages/all/all"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3399FF",
+    "navigationBarTitleText": "西遇旅行",
+    "navigationBarTextStyle": "white"
+  }
+}
