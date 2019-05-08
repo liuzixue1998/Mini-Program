@@ -1,0 +1,44 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/shouye/shouye",
+    "pages/gonglve/gonglve",
+    "pages/mudidi/mudidi"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "hh",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#8c8c8c",
+    "selectedColor": "#f4645f",
+    "backgroundColor": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "pages/imgs/shouye.png",
+        "selectedIconPath": "pages/imgs/shouye.png"
+      },
+      {
+        "pagePath": "pages/mudidi/mudidi",
+        "text": "目的地",
+        "iconPath": "pages/imgs/fenlei.png",
+        "selectedIconPath": "pages/imgs/fenlei.png"
+      },
+      {
+        "pagePath": "pages/gonglve/gonglve",
+        "text": "攻略",
+        "iconPath": "pages/imgs/gonglve.png",
+        "selectedIconPath": "pages/imgs/gonglve.png"
+      }
+    ],
+    "position": "bottom"
+  }
+  
+
+}
