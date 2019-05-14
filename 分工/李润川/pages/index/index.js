@@ -6,4 +6,9 @@ Page({
     imgsrc: '../imgs/China.png',
     iconsrc: '../imgs/China.png',
   },
+  change: function () {
+    wx.navigateTo({
+      url: '/pages/china/china',
+    })
+  }
 })

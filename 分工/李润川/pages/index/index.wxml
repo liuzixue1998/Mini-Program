@@ -43,18 +43,18 @@
   <view class="appointment">
     <view class="app-moduler">
       <!--中国-->
-      <navigator url="url" class="mod-item">
+      <navigator url='../china/china' class="mod-item">
         <view class="mod-img">
-          <image src="../imgs/China.png" class="mod-image"></image>
+          <image   src="../imgs/China.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--新加坡-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Singapore.png" class="mod-image"></image>
         </view>
       </navigator>
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/taiwan.png" class="mod-image"></image>
         </view>
@@ -69,19 +69,19 @@
         </view>
       </navigator> 
       <!--柬埔寨-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Cambodian.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--泰国-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Thailand.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--阿联酋-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/UAE.png" class="mod-image"></image>
         </view>
@@ -106,19 +106,19 @@
   <view class="appointment">
     <view class="app-moduler">
       <!--爱尔兰-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Ireland.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--芬兰-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Finland.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--克罗地亚-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Croatia.png" class="mod-image"></image>
         </view>
@@ -133,19 +133,19 @@
         </view>
       </navigator> 
       <!--斯洛伐克-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Slovakia.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--罗马尼亚-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Romania.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--意大利-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Italy.png" class="mod-image"></image>
         </view>
@@ -168,19 +168,19 @@
   <view class="appointment">
     <view class="app-moduler">
       <!--阿根廷-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Argentina.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--玻利维亚-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Bolivia.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--厄瓜多尔-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Ecuador.png" class="mod-image"></image>
         </view>
@@ -195,19 +195,19 @@
         </view>
       </navigator> 
       <!--哥伦比亚-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Columbia.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--秘鲁-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Peru.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--智利-->
-      <navigator url="url" class="mod-item">
+      <navigator  class="mod-item">
         <view class="mod-img">
           <image src="../imgs/Chile.png" class="mod-image"></image>
         </view>

@@ -1,0 +1,29 @@
+<!--index.wxml-->
+<view class="container">
+  <!--亚洲地区图片-->
+  <view class="appointment">
+    <view class="app-moduler">
+      <!--中国-->
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/1015f520aea5a9533095501557793446.jpg" class="mod-image"></image> 
+          <span class="text1">青海</span>
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/1015f520aea5a9533095501557793446.jpg" class="mod-image"></image> 
+          <span class="text1">青海</span>
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/1015f520aea5a9533095501557793446.jpg" class="mod-image"></image> 
+          <span class="text1">青海</span>
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/1015f520aea5a9533095501557793446.jpg" class="mod-image"></image> 
+          <span class="text1">青海</span>
+      </view>
+      
+      
+   </view>
+</view>
+</view>
+
+
