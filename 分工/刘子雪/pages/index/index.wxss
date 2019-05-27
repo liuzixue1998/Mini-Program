@@ -44,7 +44,7 @@ li{
 }
 .tj{
   position: absolute;
-  top:100vw;
+  top:104vw;
   left: 5vw;
 }
 .tj-p{
@@ -56,7 +56,7 @@ li{
 }
 .bj{
   position: absolute;
-  top:100vw;
+  top:104vw;
   left: 54vw;
 }
 .bj-p{

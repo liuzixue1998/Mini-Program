@@ -96,7 +96,7 @@ var dataList = [
     "time": "2018-06-23"
   },
 ]
-var bannerList = [   '../imgs/slide1.jpg','../imgs/slide2.jpg','../imgs/slide3.jpg']
+var bannerList = ['../imgs/slide1.jpg','https://graph.baidu.com/resource/101be0d70155ad27cec3e01557363098.jpg','../imgs/slide3.jpg']
 // 定义数据出口
 module.exports = {
   detailList: dataList,

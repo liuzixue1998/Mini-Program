@@ -1,0 +1,42 @@
+<view>
+  <div class='top'>
+    <image src='https://graph.baidu.com/resource/1016f25f2599e2894ad6901558938566.jpg' ></image>
+    <p>城市指南</p>
+    <p class='gray'></p>
+  </div>
+
+  <div class='mid'>
+    <image class='tj1'  src='https://graph.baidu.com/resource/1016c270da1936edcd95201558938928.jpg'></image>
+    <p class='tj1-1'>最多人打卡</p> 
+    <p class='tj1-2'>天坛必打卡</p>
+
+    <image class='tj2'  src='https://graph.baidu.com/resource/1012275ed4aeed973afcb01558939052.jpg'></image>
+    <p class='tj2-1'>我的文艺情怀</p> 
+    <p class='tj2-2'>秋游好去处</p>
+
+    <image class='tj3'   src='https://graph.baidu.com/resource/1015b61153163a6a639f701558939122.jpg' ></image>
+    <p class='tj3-1'>网红打卡地</p> 
+    <p class='tj3-2'>购物胜地</p>
+
+    <image class='tj4'  src='https://graph.baidu.com/resource/10163327220bfc3b62b6001558939178.jpg'></image>
+    <p class='tj4-1'>必吃美食系列</p> 
+    <p class='tj4-2'>北京小吃</p>
+
+    <image class='tj5'  src='https://graph.baidu.com/resource/1019f67beb155116c18b201558939231.jpg'></image>
+    <p class='tj5-1'>亲子总动员</p> 
+    <p class='tj5-2'>一起爬长城</p>
+
+    <image class='tj6'   src='https://graph.baidu.com/resource/1012db345a30a04e83f6901558939285.jpg' ></image>
+    <p class='tj6-1'>夜游推荐</p> 
+    <p class='tj6-2'>夜晚游玩</p>
+
+  </div>
+
+  <div class='bott'>
+    <p class='bott-p'>北京必体验 </p>
+    <image src='https://graph.baidu.com/resource/101062e6cac5848a10c4101558939428.jpg' class='tj7'></image>
+      <p class='tj7-p'>国家体育场</p>
+    <image src='https://graph.baidu.com/resource/101708624f19c7773438f01558939332.jpg' class='tj8'></image>
+      <p class='tj8-p'>锁澜桥</p>
+  </div>
+</view>

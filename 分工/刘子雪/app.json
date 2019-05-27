@@ -1,17 +1,21 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
+    "pages/tj/tj",
     "pages/detail/detail",
     "pages/shouye/shouye",
     "pages/gonglve/gonglve",
-    "pages/mudidi/mudidi"
+    "pages/mudidi/mudidi",
+    "pages/bj/bj",
+    "pages/cd/cd",
+    "pages/sh/sh"
 
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "white",
     "navigationBarTitleText": "hh",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
     "color": "#8c8c8c",
@@ -39,6 +43,4 @@
     ],
     "position": "bottom"
   }
-  
-
 }

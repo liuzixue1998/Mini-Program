@@ -131,6 +131,27 @@ Page({
       title: '跟我零基础学彩铅',
       path: 'pages/index/index'
     }
+  },
+
+  change:function(){
+    wx.navigateTo({
+      url: '/pages/tj/tj',
+    })
+  },
+  change1: function () {
+    wx.navigateTo({
+      url: '/pages/bj/bj',
+    })
+  },
+  change2: function () {
+    wx.navigateTo({
+      url: '/pages/cd/cd',
+    })
+  },
+  change3: function () {
+    wx.navigateTo({
+      url: '/pages/sh/sh',
+    })
   }
 })
 

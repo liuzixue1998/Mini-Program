@@ -18,19 +18,19 @@
     <p class='hot-city'>——  热门城市  ——</p>
     <div class='gray-1'></div>
     <div class='tj'>
-      <image src='../imgs/tj.jpg' class='cityy'></image>
+      <image src='../imgs/tj.jpg' class='cityy'  bindtap='change'></image>
       <p class='tj-p'>天津</p>
     </div>
     <div class='bj'>
-      <image src='../imgs/bj.jpg' class='cityy'></image>
+      <image src='../imgs/bj.jpg' class='cityy' bindtap='change1'></image>
       <p class='bj-p'>北京</p>
     </div>
     <div class='cd'>
-      <image src='../imgs/cd.jpg' class='cityy'></image>
+      <image src='../imgs/cd.jpg' class='cityy' bindtap='change2'></image>
       <p class='cd-p'>成都</p>
     </div>
     <div class='sh'>
-      <image src='../imgs/sh.jpg' class='cityy'></image>
+      <image src='../imgs/sh.jpg' class='cityy' bindtap='change3'></image>
       <p class='sh-p'>上海</p>
     </div>
   </view>
