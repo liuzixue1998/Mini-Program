@@ -2,12 +2,32 @@
   "pages": [
     "pages/gonglue/gonglue",
     "pages/detail/detail",
-    "pages/all/all"
+    "pages/all/all",
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#3399FF",
     "navigationBarTitleText": "西遇旅行",
     "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#333",
+    "selectedColor": "#fdb975",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/home_nor.png",
+        "selectedIconPath": "images/home_pre.png"
+      },
+      {
+        "pagePath": "pages/gonglue/gonglue",
+        "text": "攻略",
+        "iconPath": "images/gonglue.png",
+        "selectedIconPath": "images/gonglue2.png"
+      }
+    ]
   }
 }

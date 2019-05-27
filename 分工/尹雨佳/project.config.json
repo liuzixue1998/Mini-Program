@@ -13,7 +13,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.1.1",
 	"appid": "wx90f6342544e4af51",
-	"projectname": "%E8%B7%9F%E6%88%91%E5%AD%A6%E5%BD%A9%E9%93%85",
+	"projectname": "xiyuTravel",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
