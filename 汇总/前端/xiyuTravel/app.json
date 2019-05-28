@@ -22,14 +22,14 @@
   },
   "tabBar": {
     "color": "#333",
-    "selectedColor": "#fdb975",
+    "selectedColor": "#3399FF",
     "backgroundColor": "#fff",
     "list": [
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "images/home_nor.png",
-        "selectedIconPath": "images/home_pre.png"
+        "iconPath": "images/shouye.png",
+        "selectedIconPath": "images/shouye.png"
       },
       {
         "pagePath": "pages/mudidi/mudidi",
@@ -40,8 +40,8 @@
       {
         "pagePath": "pages/gonglue/gonglue",
         "text": "攻略",
-        "iconPath": "images/gonglue.png",
-        "selectedIconPath": "images/gonglue2.png"
+        "iconPath": "images/gonglve.png",
+        "selectedIconPath": "images/gonglve.png"
       }
     ]
   }

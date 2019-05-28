@@ -46,7 +46,7 @@
       <!--中国-->
       <navigator url='../china/china' class="mod-item">
         <view class="mod-img">
-          <image   src="../../images/China.png" class="mod-image"></image>
+          <image src="../../images/China.png" class="mod-image"></image>
         </view>
       </navigator>
       <!--新加坡-->
