@@ -1,0 +1,26 @@
+.container{
+  display:flex;                    
+ /* justify-content: center;  */
+ margin: 0;
+ padding: 0;
+ height: 240vw;
+}
+
+.mod-item{
+ width:43vw;
+ position: relative;
+ height:65vw;
+  float:left;
+  background-color: #f4f4f4;
+  margin:4% 2% 4% 4%;
+}
+.mod-image{
+  float: left;
+  width:43vw;
+  height:55vw;
+  padding:2% 0.5%;
+  margin: 0;
+}
+.text1{
+  padding:2% 4%;
+}

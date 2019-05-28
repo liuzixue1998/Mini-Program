@@ -1,0 +1,37 @@
+<!--index.wxml-->
+<view class="container">
+  <!--亚洲地区图片-->
+  <view class="appointment">
+    <view class="app-moduler">
+      <!--中国-->
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/1015f520aea5a9533095501557793446.jpg" class="mod-image"></image> 
+          <span class="text1">青海</span>
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/101117bca11b431ed3aa301558937673.jpg" class="mod-image"></image> 
+          <span class="text1">桂林</span>
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/1019a676980e95ce76c5601558937887.jpg" class="mod-image"></image> 
+          <span class="text1">济州</span>
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/101dc3c20b62f95b6b62b01558938369.jpg" class="mod-image"></image> 
+          <span class="text1">布拉格</span>
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/101b007aecb3c238491ca01558939669.jpg" class="mod-image"></image> 
+          <span class="text1">北京</span>
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/1015b24d1c1ccf3711d3801558938648.jpg" class="mod-image"></image> 
+          <span class="text1">成都</span>
+      </view>
+      
+      
+   </view>
+</view>
+</view>
+
+

@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/gonglue/gonglue",
+    "pages/detail/detail",
+    "pages/all/all",
+    "pages/tj/tj",
+    "pages/shouye/shouye",
+    "pages/mudidi/mudidi",
+    "pages/bj/bj",
+    "pages/cd/cd",
+    "pages/sh/sh",
+    "pages/china/china",
+    "pages/Singapore/Singapore",
+    "pages/route/route"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3399FF",
+    "navigationBarTitleText": "西遇旅行",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#333",
+    "selectedColor": "#fdb975",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/home_nor.png",
+        "selectedIconPath": "images/home_pre.png"
+      },
+      {
+        "pagePath": "pages/mudidi/mudidi",
+        "text": "目的地",
+        "iconPath": "images/fenlei.png",
+        "selectedIconPath": "images/fenlei.png"
+      },
+      {
+        "pagePath": "pages/gonglue/gonglue",
+        "text": "攻略",
+        "iconPath": "images/gonglue.png",
+        "selectedIconPath": "images/gonglue2.png"
+      }
+    ]
+  }
+}

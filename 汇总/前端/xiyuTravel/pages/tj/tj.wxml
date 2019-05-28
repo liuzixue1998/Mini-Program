@@ -1,0 +1,42 @@
+<view>
+  <div class='top'>
+    <image src='https://graph.baidu.com/resource/10186b4fdfa2c577b976801557367106.jpg' ></image>
+    <p>城市指南</p>
+    <p class='gray'></p>
+  </div>
+
+  <div class='mid'>
+    <image class='tj1'  src='https://graph.baidu.com/resource/101f69c0767252a189f0c01557367702.jpg'></image>
+    <p class='tj1-1'>最多人打卡</p> 
+    <p class='tj1-2'>浪漫摩天轮</p>
+
+    <image class='tj2'  src='https://graph.baidu.com/resource/1014c4726a2dd174b0a9401557367905.jpg'></image>
+    <p class='tj2-1'>我的文艺情怀</p> 
+    <p class='tj2-2'>欣赏古洋楼</p>
+
+    <image class='tj3'   src='https://graph.baidu.com/resource/1014cda2f4bebf4fdff9a01557367980.jpg' ></image>
+    <p class='tj3-1'>网红打卡地</p> 
+    <p class='tj3-2'>一起许愿吧</p>
+
+    <image class='tj4'  src='https://graph.baidu.com/resource/101dc7850e31d73dc1bed01557369943.jpg'></image>
+    <p class='tj4-1'>必吃美食系列</p> 
+    <p class='tj4-2'>边逛边吃</p>
+
+    <image class='tj5'  src='https://graph.baidu.com/resource/101068e692f8c00f880e201557369967.jpg'></image>
+    <p class='tj5-1'>亲子总动员</p> 
+    <p class='tj5-2'>趣味动物园</p>
+
+    <image class='tj6'   src='https://graph.baidu.com/resource/101cf6335606350c0b8e501557370005.jpg' ></image>
+    <p class='tj6-1'>夜游推荐</p> 
+    <p class='tj6-2'>风情广场</p>
+
+  </div>
+
+  <div class='bott'>
+    <p class='bott-p'>天津必体验 </p>
+    <image src='https://graph.baidu.com/resource/101dda4fa467a0f5cecbd01557730444.jpg' class='tj7'></image>
+      <p class='tj7-p'>张学良故居</p>
+    <image src='https://graph.baidu.com/resource/101a5e9824ffae6dc187901557729926.jpg' class='tj8'></image>
+      <p class='tj8-p'>瓷房子</p>
+  </div>
+</view>

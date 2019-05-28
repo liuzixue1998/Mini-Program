@@ -1,0 +1,201 @@
+/* pages/mudidi/mudidi.wxss */
+.container{
+ display:flex;                    
+ justify-content: center; 
+ overflow-x:hidden;
+}
+.ban-pic{
+  height:170px;
+  width: 100%;
+  display:flex;                    
+  justify-content: center; 
+}
+.b1_01{
+  position:relative;
+  top:-45%;
+  height: 200px;
+  width:350vw;
+}
+
+/*标题1*/
+.title1{
+  height:20px;
+  display:flex;                    
+ justify-content: center; 
+}
+.text1_01{
+  position:relative;
+  top:0;
+  color:#d9d9d9;
+  font-size:bold;
+  top:-180%;
+}
+.text1_02{
+  position:relative;
+  top:-180%;
+}
+
+
+/*左侧滑动*/
+.sideslip{
+  /* border:1px solid #d9d9d9; */
+  width: 500px;
+  height:150px;
+  float:left;
+  position:relative;
+  display:flex;                    
+  justify-content: center; 
+  
+}
+/*图片*/
+.sl_div{
+  margin-right: 2px;
+  width:30vw;
+  height:130px;
+  float:left;
+  border:1px solid #f4f4f4;
+  position:relative;
+}
+.sl_pic{
+  width:30vw;
+  height:90px;
+}
+
+/*分割线*/
+.line1{
+  border-bottom:#f4f4f4 4px solid;
+  width:100%;
+  height:5px;
+  position: relative;
+  top:85%;
+}
+
+/*标题二*/
+.title2{
+  position:relative;
+  left:-2%;
+  margin:0%;
+  padding-top: 8vw;
+  display:flex;                    
+ justify-content: center; 
+}
+/*分割线二*/
+.line2{
+  border-bottom:#f4f4f4 1px solid;
+  width:100%;
+  height:5px;
+  position: relative;
+  top:98%;
+}
+/*亚洲地区图片*/
+.yz1{
+  position: relative;
+  top:13%;
+  width:100%;
+}
+.left{
+  width:130px;
+  height:80px;
+  position: relative;
+  left:7%;
+  padding: 0;
+}
+.right{
+  width:130px;
+  height:80px;
+  position: relative;
+  left:11%;
+  padding: 0;
+}
+
+/*分割线*/
+.line3{
+  border-bottom:#f4f4f4 4px solid;
+  width:100%;
+  height:5px;
+  position: relative;
+  top:8vw;
+  padding-bottom: 2vw;
+}
+
+/*标题三*/
+.title3{
+  position:relative;
+  left:-2%;
+  top:10vw;
+  margin:1vw 0 4.5vw 0;
+  padding:4vw 0 5vw 0;
+  display:flex;                    
+ justify-content: center; 
+}
+/*分割线四*/
+.line4{
+  border-bottom:#f4f4f4 1px solid;
+  width:100%;
+  height:5px;
+  position: relative;
+  top:166%;
+}
+/*分割线五*/
+.line5{
+  border-bottom:#f4f4f4 4px solid;
+  width:100%;
+  height:5px;
+  position: relative;
+  top:11vw;
+}
+/*标题四*/
+.title4{
+  position:relative;
+  left:-2%;
+  top:5vw;
+  margin:8vw 0 1vw 0;
+  padding:4vw 0 5vw 0;
+  display:flex;                    
+ justify-content: center; 
+}
+/*分割线六*/
+.line6{
+  border-bottom:#f4f4f4 1px solid;
+  width:100%;
+  height:5px;
+  position: relative;
+  top:1vw;
+}
+
+
+.mod-item{
+ width:46%;
+ height:145rpx;
+ float: left;
+ margin-left:20rpx;
+ margin-top:40rpx;
+ position: relative;
+}
+.mod-signup{
+  position: absolute;
+}
+/* .mod-signup image{
+  width:76rpx;
+  height:42rpx;
+} */
+.mod-img{
+  width:100%;
+  height:180rpx;
+} 
+.mod-image{
+  width: 100%;
+  height:180rpx;
+}
+.mod-title{
+  font-size:32rpx;
+  font-family: '微软雅黑';
+  display:flex;
+  height:45rpx;
+  margin-top:15rpx;
+  flex-direction:column;
+  justify-content: center;
+  text-overflow: -o-ellipsis-lastline;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

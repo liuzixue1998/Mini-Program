@@ -1,0 +1,183 @@
+/* pages/tj/tj.wxss */
+.top image{
+  width: 100%;
+  height: 60vw;
+}
+.top p{
+  font-weight: bolder;
+  font-size: 6vw;
+}
+.mid{
+  position: absolute;
+  top:70vw;
+}
+.gray{
+  width: 100%;
+  height: 2px;
+  background-color: #f4f4f4;
+  position: absolute;
+  left: 0;
+  top:70vw;
+}
+.mid image{
+  width: 30vw;
+  height: 23vw;
+}
+.tj1{
+  position: absolute;
+  top: 2vw;
+  left: -22vw;
+}
+.tj1-1{
+  font-weight: bold;
+  font-size: 4vw;
+  position: absolute;
+  top:28vw;
+  left: -20vw;
+}
+.tj1-2{
+  font-size: 3.5vw;
+  position: absolute;
+  top:34vw;
+  left: -19vw;
+}
+.tj2{
+  position: absolute;
+  top: 2vw;
+  left:11vw;
+}
+.tj2-1{
+  font-weight: bold;
+  font-size: 4vw;
+  position: absolute;
+  top:28vw;
+  left: 12vw;
+  height: 1vw;
+  width: 100vw;
+}
+.tj2-2{
+  font-size: 3.5vw;
+  position: absolute;
+  top:34vw;
+  left: 15vw;
+  width: 100vw;
+}
+.tj3{
+  position: absolute;
+  top: 2vw;
+  left: 44vw;
+}
+.tj3-1{
+  font-weight: bold;
+  font-size: 4vw;
+  position: absolute;
+  top:28vw;
+  left: 48vw;
+  width: 100vw;
+}
+.tj3-2{
+  font-size: 3.5vw;
+  position: absolute;
+  top:34vw;
+  left: 49vw;
+  width: 100vw;
+}
+.tj4{
+  position: absolute;
+  top: 40vw;
+  left: -22vw;
+}
+.tj4-1{
+  font-weight: bold;
+  font-size: 4vw;
+  position: absolute;
+  top:64vw;
+  left: -20vw;
+  width: 100vw;
+}
+.tj4-2{
+  font-size: 3.5vw;
+  position: absolute;
+  top:70vw;
+  left: -19vw;
+}
+.tj5{
+  position: absolute;
+  top: 40vw;
+  left:11vw;
+}
+.tj5-1{
+  font-weight: bold;
+  font-size: 4vw;
+  position: absolute;
+  top:64vw;
+  left: 12vw;
+  height: 1vw;
+  width: 100vw;
+}
+.tj5-2{
+  font-size: 3.5vw;
+  position: absolute;
+  top:70vw;
+  left: 15vw;
+  width: 100vw;
+}
+.tj6{
+  position: absolute;
+  top: 40vw;
+  left: 44vw;
+}
+.tj6-1{
+  font-weight: bold;
+  font-size: 4vw;
+  position: absolute;
+  top:64vw;
+  left: 48vw;
+  width: 100vw;
+}
+.tj6-2{
+  font-size: 3.5vw;
+  position: absolute;
+  top:70vw;
+  left: 49vw;
+  width: 100vw;
+}
+
+
+.bott-p{
+  font-weight: bolder;
+  font-size: 6vw;
+  position: absolute;
+  top:150vw;
+  left: 2vw;
+}
+.bott image{
+  width: 45vw;
+  height: 35vw;
+}
+.tj7{
+  position: absolute;
+  top:158vw;
+  left: 3vw;
+  width: 100vw;
+}
+.tj7-p{
+  font-size: 4.5vw;
+  position: absolute;
+  top:195vw;
+  left: 10vw;
+  width: 100vw;
+}
+.tj8{
+  position: absolute;
+  top:158vw;
+  right:3vw;
+  width: 100vw;
+}
+.tj8-p{
+  font-size: 4.5vw;
+  position: absolute;
+  top:195vw;
+  left: 67vw;
+  width: 100vw;
+}

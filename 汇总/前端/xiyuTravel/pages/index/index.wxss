@@ -1,0 +1,163 @@
+/* pages/index/index.wxss */
+.container swiper{
+  width: 100%;
+  height: 50vw;
+}
+.slide-image{
+  width: 100%;
+  height: 100%;
+}
+ul{
+  width: 50vw;
+  position: absolute;
+  top:60vw;
+  left: 25vw;
+}
+li{
+  width: 100vw;
+  color: #4f4f4f;
+  border: 1rpx solid #d8d8d8;
+  border-radius:5px;
+  margin: 10px;
+  padding: 10px;
+}
+.gray{
+  width: 100%;
+  height: 10px;
+  background-color: #f4f4f4;
+  position: absolute;
+  left: 0;
+  top:75vw;
+}
+.hot-city{
+  color: #474747;
+  position: absolute;
+  top:82vw;
+  left: 29vw;
+}
+.gray-1{
+  width: 100%;
+  height: 2px;
+  background-color: #f4f4f4;
+  position: absolute;
+  left: 0;
+  top:92vw;
+}
+.tj{
+  position: absolute;
+  top:104vw;
+  left: 5vw;
+}
+.tj-p{
+  position: absolute;
+  top: 30vw;
+  width: 100%;
+  height: 1px;
+  left: 15vw;
+}
+.bj{
+  position: absolute;
+  top:104vw;
+  left: 54vw;
+}
+.bj-p{
+  position: absolute;
+  top: 30vw;
+  width: 100%;
+  left: 15vw;
+}
+.cd{
+  position: absolute;
+  top:150vw;
+  left: 5vw;
+}
+.cd-p{
+  position: absolute;
+  top: 30vw;
+  width: 100%;
+  left: 15vw;
+}
+.sh{
+  position: absolute;
+  top:150vw;
+  left: 54vw;
+}
+.sh-p{
+  position: absolute;
+  top: 30vw;
+  width: 100%;
+  left: 15vw;
+}
+.city image{
+  width: 40vw;
+  height: 30vw;
+}
+
+
+.gray-2{
+  width: 100%;
+  height: 10px;
+  background-color: #f4f4f4;
+  position: absolute;
+  left: 0;
+  top:195vw;
+}
+.port{
+  color: #474747;
+  position: absolute;
+  top:202vw;
+  left: 28vw;
+}
+.gray-3{
+  width: 100%;
+  height: 2px;
+  background-color: #f4f4f4;
+  position: absolute;
+  left: 0;
+  top:212vw;
+}
+
+.po1{
+  position: absolute;
+  top:217vw;
+  left: 3vw;
+}
+.po1-p{
+  position: absolute;
+  top: 23vw;
+  width: 100%;
+  left: 4vw;
+}
+.port-{
+  width: 28vw;
+  height: 22vw;
+}
+.po2{
+  position: absolute;
+  top:217vw;
+  left: 37vw;
+}
+.po2-p{
+  position: absolute;
+  top: 23vw;
+  width: 100%;
+  left: 6vw;
+}
+.po3{
+  position: absolute;
+  top:217vw;
+  right: 3vw;
+}
+.po3-p{
+ position: absolute;
+  top: 23vw;
+  width: 100%;
+  left: 4vw;
+}
+
+
+
+
+
+
+

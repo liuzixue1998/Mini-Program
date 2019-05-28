@@ -1,0 +1,42 @@
+<view>
+  <div class='top'>
+    <image src='https://graph.baidu.com/resource/10112e48763e43e4f9e4101558939855.jpg' ></image>
+    <p>城市指南</p>
+    <p class='gray'></p>
+  </div>
+
+  <div class='mid'>
+    <image class='tj1'  src='https://graph.baidu.com/resource/10108b69ee5e931ab83ca01558939911.jpg'></image>
+    <p class='tj1-1'>最多人打卡</p> 
+    <p class='tj1-2'>城市最热门</p>
+
+    <image class='tj2'  src='https://graph.baidu.com/resource/1015f392ed3cd0ea98b3b01558940169.jpg'></image>
+    <p class='tj2-1'>我的文艺情怀</p> 
+    <p class='tj2-2'>解锁新景点</p>
+
+    <image class='tj3'   src='https://graph.baidu.com/resource/101c373765c437e8bccbd01558940135.jpg' ></image>
+    <p class='tj3-1'>网红打卡地</p> 
+    <p class='tj3-2'>潮流聚集地</p>
+
+    <image class='tj4'  src='https://graph.baidu.com/resource/101cd1ed077f968ccca8e01558940096.jpg'></image>
+    <p class='tj4-1'>必吃美食系列</p> 
+    <p class='tj4-2'>边逛边吃</p>
+
+    <image class='tj5'  src='https://graph.baidu.com/resource/10180c2a99da2446a366101558940066.jpg'></image>
+    <p class='tj5-1'>亲子总动员</p> 
+    <p class='tj5-2'>成都周边游</p>
+
+    <image class='tj6'   src='https://graph.baidu.com/resource/10161878de1b8738c8f8401558940021.jpg' ></image>
+    <p class='tj6-1'>夜游推荐</p> 
+    <p class='tj6-2'>享慢生活</p>
+
+  </div>
+
+  <div class='bott'>
+    <p class='bott-p'>成都必体验 </p>
+    <image src='https://graph.baidu.com/resource/10147b3e5999f4633849201558940228.jpg' class='tj7'></image>
+      <p class='tj7-p'>杜甫草堂</p>
+    <image src='https://graph.baidu.com/resource/101a9a2520442fb93444401558940269.jpg' class='tj8'></image>
+      <p class='tj8-p'>锦里</p>
+  </div>
+</view>

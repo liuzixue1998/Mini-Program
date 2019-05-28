@@ -1,0 +1,42 @@
+<view>
+  <div class='top'>
+    <image src='https://graph.baidu.com/resource/1012811ee8d725631015801558940332.jpg' ></image>
+    <p>城市指南</p>
+    <p class='gray'></p>
+  </div>
+
+  <div class='mid'>
+    <image class='tj1'  src='https://graph.baidu.com/resource/101475d0f65ccd6c1879e01558940402.jpg'></image>
+    <p class='tj1-1'>最多人打卡</p> 
+    <p class='tj1-2'>梦幻世界</p>
+
+    <image class='tj2'  src='https://graph.baidu.com/resource/1018f1d71f6fbfdbe1fd401558940488.jpg'></image>
+    <p class='tj2-1'>我的文艺情怀</p> 
+    <p class='tj2-2'>外滩风景</p>
+
+    <image class='tj3'   src='https://graph.baidu.com/resource/10115218d98f2d11a6a9401558940548.jpg' ></image>
+    <p class='tj3-1'>网红打卡地</p> 
+    <p class='tj3-2'>老上海地标</p>
+
+    <image class='tj4'  src='https://graph.baidu.com/resource/1015bed0f6b3fb5c7505f01558940616.jpg'></image>
+    <p class='tj4-1'>必吃美食系列</p> 
+    <p class='tj4-2'>吃遍美食街</p>
+
+    <image class='tj5'  src='https://graph.baidu.com/resource/10102bd95ccca0a62ae3101558940675.jpg'></image>
+    <p class='tj5-1'>亲子总动员</p> 
+    <p class='tj5-2'>享慢生活</p>
+
+    <image class='tj6'   src='https://graph.baidu.com/resource/1015b625a6e34215eb5bf01558940723.jpg' ></image>
+    <p class='tj6-1'>夜游推荐</p> 
+    <p class='tj6-2'>夜晚闲逛</p>
+
+  </div>
+
+  <div class='bott'>
+    <p class='bott-p'>上海必体验 </p>
+    <image src='https://graph.baidu.com/resource/10173e92183a94334ae0a01558940775.jpg' class='tj7'></image>
+      <p class='tj7-p'>上海大剧院</p>
+    <image src='https://graph.baidu.com/resource/101e1e71c10b4d7d4fad501558940827.jpg' class='tj8'></image>
+      <p class='tj8-p'>田子坊</p>
+  </div>
+</view>

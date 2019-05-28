@@ -1,0 +1,221 @@
+<!--pages/mudidi/mudidi.wxml-->
+<!--index.wxml-->
+<view class="container">
+  <div class="ban-pic" align="center">
+    <image class="b1_01" src='../../images/b1_01.png'></image>
+  </div>
+  <!--标题一-->
+  <div class="title1">
+    <span class="text1_01">--  </span>
+    <span class="text1_02">热门目的地  </span>
+    <span class="text1_01">--</span>
+  </div>
+  <!--左滑-->
+  <div>
+    <view bindtouchstart='touchStart' bindtouchend="touchEnd">
+      <div class="sideslip">
+        <div class="sl_div">
+            <image class="sl_pic" src="../../images/heb.png"></image> 
+            <span class="text2_01">哈尔滨</span>
+        </div>
+        <div class="sl_div">
+            <image class="sl_pic" src="../../images/cd.png"></image> 
+            <span class="text2_01">成都安顺</span>
+        </div>
+        <div class="sl_div">
+            <image class="sl_pic" src="../../images/xj.png"></image> 
+            <span class="text2_01">新疆</span>
+        </div>
+      </div>
+    </view>
+  </div>
+  <!--分割线-->
+  <div class="line1"></div>
+  <!--标题二-->
+  <div class="title2">
+    <text class="text1_01" decode="{{true}}">--&nbsp;&nbsp;&nbsp;</text>
+    <text class="text1_02" decode="{{true}}">亚洲&nbsp;&nbsp;&nbsp;</text>
+    <text class="text1_01">--</text>
+  </div>
+  <!--分割线-->
+  <div class="line2"></div>
+
+  <!--亚洲地区图片-->
+  <view class="appointment">
+    <view class="app-moduler">
+      <!--中国-->
+      <navigator url='../china/china' class="mod-item">
+        <view class="mod-img">
+          <image   src="../../images/China.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--新加坡-->
+      <navigator url='../china/china' class="mod-item">
+        <view class="mod-img">
+          <image src="../../images/Singapore.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/taiwan.png" class="mod-image"></image>
+        </view>
+        <view class="mod-title">
+          <text></text> 
+        </view>
+        <view class="mod-info">
+          <view class="mod-icon">
+            <image src="{{iconsrc}}" class="icon"></image>
+          </view>
+          <view class="moinfont"></view>
+        </view>
+      </navigator> 
+      <!--柬埔寨-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Cambodian.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--泰国-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Thailand.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--阿联酋-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/UAE.png" class="mod-image"></image>
+        </view>
+      </navigator>
+   </view>
+</view>
+
+
+
+  <!--分割线-->
+  <div class="line3"></div>
+
+  <!--标题三-->
+  <div class="title3">
+    <text class="text1_01" decode="{{true}}">--&nbsp;&nbsp;&nbsp;</text>
+    <text class="text1_02" decode="{{true}}">欧洲&nbsp;&nbsp;&nbsp;</text>
+    <text class="text1_01">--</text>
+  </div>
+  <!--分割线-->
+  <div class="line4"></div>
+  <!--欧洲地区图片-->
+  <view class="appointment">
+    <view class="app-moduler">
+      <!--爱尔兰-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Ireland.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--芬兰-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Finland.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--克罗地亚-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Croatia.png" class="mod-image"></image>
+        </view>
+        <view class="mod-title">
+          <text></text> 
+        </view>
+        <view class="mod-info">
+          <view class="mod-icon">
+            <image src="{{iconsrc}}" class="icon"></image>
+          </view>
+          <view class="moinfont"></view>
+        </view>
+      </navigator> 
+      <!--斯洛伐克-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Slovakia.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--罗马尼亚-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Romania.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--意大利-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Italy.png" class="mod-image"></image>
+        </view>
+      </navigator>
+   </view>
+</view>
+
+  <!--分割线-->
+  <div class="line5"></div>
+
+  <!--标题四-->
+  <div class="title4">
+    <text class="text1_01" decode="{{true}}">--&nbsp;&nbsp;&nbsp;</text>
+    <text class="text1_02" decode="{{true}}">南美洲&nbsp;&nbsp;&nbsp;</text>
+    <text class="text1_01">--</text>
+  </div>
+  <!--分割线-->
+  <div class="line6"></div>
+  <!--南美洲地区图片-->
+  <view class="appointment">
+    <view class="app-moduler">
+      <!--阿根廷-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Argentina.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--玻利维亚-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Bolivia.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--厄瓜多尔-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Ecuador.png" class="mod-image"></image>
+        </view>
+        <view class="mod-title">
+          <text></text> 
+        </view>
+        <view class="mod-info">
+          <view class="mod-icon">
+            <image src="{{iconsrc}}" class="icon"></image>
+          </view>
+          <view class="moinfont"></view>
+        </view>
+      </navigator> 
+      <!--哥伦比亚-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Columbia.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--秘鲁-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Peru.png" class="mod-image"></image>
+        </view>
+      </navigator>
+      <!--智利-->
+      <navigator  class="mod-item" url='../china/china'>
+        <view class="mod-img">
+          <image src="../../images/Chile.png" class="mod-image"></image>
+        </view>
+      </navigator>
+   </view>
+</view>
+</view>
+
+
+
