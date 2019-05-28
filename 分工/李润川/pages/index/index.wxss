@@ -1,6 +1,7 @@
 .container{
-  display:flex;                    
+ display:flex;                    
  justify-content: center; 
+ overflow-x:hidden;
 }
 .ban-pic{
   height:170px;

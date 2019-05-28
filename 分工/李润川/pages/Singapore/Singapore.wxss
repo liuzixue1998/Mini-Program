@@ -3,7 +3,7 @@
  /* justify-content: center;  */
  margin: 0;
  padding: 0;
- height: 230vw;
+ height: 240vw;
 }
 
 .mod-item{

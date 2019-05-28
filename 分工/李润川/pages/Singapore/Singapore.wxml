@@ -4,30 +4,30 @@
   <view class="appointment">
     <view class="app-moduler">
       <!--中国-->
-      <navigator class="mod-item" url='../route/route'>
+      <view class="mod-item">
           <image src="https://graph.baidu.com/resource/1015f520aea5a9533095501557793446.jpg" class="mod-image"></image> 
           <span class="text1">青海</span>
-      </navigator>
-      <navigator class="mod-item" url='../route/route'>
-          <image src="https://graph.baidu.com/resource/101937bca11b431ed3aa301559004164.jpg" class="mod-image"></image> 
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/101117bca11b431ed3aa301558937673.jpg" class="mod-image"></image> 
           <span class="text1">桂林</span>
-      </navigator>
-      <navigator class="mod-item" url='../route/route'>
+      </view>
+      <view class="mod-item">
           <image src="https://graph.baidu.com/resource/1019a676980e95ce76c5601558937887.jpg" class="mod-image"></image> 
           <span class="text1">济州</span>
-      </navigator>
-      <navigator class="mod-item" url='../route/route'>
+      </view>
+      <view class="mod-item">
           <image src="https://graph.baidu.com/resource/101dc3c20b62f95b6b62b01558938369.jpg" class="mod-image"></image> 
           <span class="text1">布拉格</span>
-      </navigator>
-      <navigator class="mod-item" url='../route/route'>
-          <image src="http://img0.imgtn.bdimg.com/it/u=810946463,1065489763&fm=26&gp=0.jpg" class="mod-image"></image> 
+      </view>
+      <view class="mod-item">
+          <image src="https://graph.baidu.com/resource/101b007aecb3c238491ca01558939669.jpg" class="mod-image"></image> 
           <span class="text1">北京</span>
-      </navigator>
-      <navigator class="mod-item" url='../route/route'>
+      </view>
+      <view class="mod-item">
           <image src="https://graph.baidu.com/resource/1015b24d1c1ccf3711d3801558938648.jpg" class="mod-image"></image> 
           <span class="text1">成都</span>
-      </navigator>
+      </view>
       
       
    </view>

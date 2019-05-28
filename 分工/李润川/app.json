@@ -2,7 +2,10 @@
   "pages": [
     "pages/index/index",
     "pages/detail/detail",
-    "pages/china/china"
+    "pages/china/china",
+    "pages/Singapore/Singapore",
+    "pages/route/route"
+
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -1,0 +1,21 @@
+.container{
+  display:flex;                    
+ justify-content: flex-start; 
+ margin: 1vw 4vw;
+ padding: 0;
+ height: 400vw;
+ align-items:left;
+}
+
+/*标题1*/
+.bt1{
+  display: block;
+} 
+.text1{
+  color: #808080;
+  font-size: 30rpx;
+}
+.pic1{
+  width: 90vw;
+  height: 47vw;
+}
