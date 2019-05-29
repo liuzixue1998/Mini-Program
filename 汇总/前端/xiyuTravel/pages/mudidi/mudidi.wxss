@@ -5,15 +5,15 @@
  overflow-x:hidden;
 }
 .ban-pic{
-  height:200px;
+  height:60vw;
   width: 100%;
   display:flex;                    
   justify-content: center; 
 }
 .b1_01{
   position:relative;
-  top:-45%;
-  height: 200px;
+  top:0vw;
+  height: 45vw;
   width:350vw;
 }
 

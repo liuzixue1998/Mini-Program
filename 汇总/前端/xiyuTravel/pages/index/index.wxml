@@ -19,19 +19,19 @@
     <p class='hot-city'>——  热门城市  ——</p>
     <div class='gray-1'></div>
     <div class='tj'>
-      <image src='../../images/tj.jpg' class='cityy'  bindtap='change'></image>
+      <image src='https://graph.baidu.com/resource/101949c0767252a189f0c01559032854.jpg' class='cityy'  bindtap='change'></image>
       <p class='tj-p'>天津</p>
     </div>
     <div class='bj'>
-      <image src='../../images/bj.jpg' class='cityy' bindtap='change1'></image>
+      <image src='https://graph.baidu.com/resource/1012b626f107816983cb501559032895.jpg' class='cityy' bindtap='change1'></image>
       <p class='bj-p'>北京</p>
     </div>
     <div class='cd'>
-      <image src='../../images/cd.jpg' class='cityy' bindtap='change2'></image>
+      <image src='https://graph.baidu.com/resource/101fd433374bd470230c201559032960.jpg' class='cityy' bindtap='change2'></image>
       <p class='cd-p'>成都</p>
     </div>
     <div class='sh'>
-      <image src='../../images/sh.jpg' class='cityy' bindtap='change3'></image>
+      <image src='https://graph.baidu.com/resource/1011455dfb3afec31edaa01559033044.jpg' class='cityy' bindtap='change3'></image>
       <p class='sh-p'>上海</p>
     </div>
   </view>
