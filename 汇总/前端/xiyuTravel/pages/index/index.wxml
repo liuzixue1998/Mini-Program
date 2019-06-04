@@ -8,10 +8,7 @@
     </block>
   </swiper>
   <view class='menuTab'>
-    <ul>
-      <li>本季游</li>
-      <li>主题游</li>
-    </ul>
+    <input type="search" placeholder="搜你想去的" class="search"  bindtap='pushSearch' />
     <div class='gray'></div>
   </view>
 

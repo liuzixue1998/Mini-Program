@@ -12,7 +12,8 @@
     "pages/sh/sh",
     "pages/china/china",
     "pages/Singapore/Singapore",
-    "pages/route/route"
+    "pages/route/route",
+    "pages/search/search"
   ],
   "window": {
     "backgroundTextStyle": "light",

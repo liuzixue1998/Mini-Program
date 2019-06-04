@@ -152,6 +152,11 @@ Page({
     wx.navigateTo({
       url: '/pages/sh/sh',
     })
+  },
+  pushSearch: function () {
+    wx.navigateTo({
+      url: '/pages/search/search',
+    })
   }
 })
 

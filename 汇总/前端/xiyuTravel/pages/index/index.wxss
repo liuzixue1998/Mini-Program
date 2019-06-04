@@ -7,20 +7,23 @@
   width: 100%;
   height: 100%;
 }
-ul{
-  width: 50vw;
-  position: absolute;
-  top:60vw;
-  left: 25vw;
-}
-li{
-  width: 100vw;
+.search{
+  width: 60vw;
+  position: relative;
+  top:10vw;
+  left:-16vm;
+  height: 30px;
+  text-align: center;
+  border: none;
+  -moz-border-radius: 11px;
+  -khtml-border-radius: 11px;
+  -webkit-border-radius: 11px;
   color: #4f4f4f;
-  border: 1rpx solid #d8d8d8;
-  border-radius:5px;
-  margin: 10px;
-  padding: 10px;
+  font-size: 14px;
+  border-radius:15px;
+  background-color: rgba(0,0,0,0.02);
 }
+
 .gray{
   width: 100%;
   height: 10px;
