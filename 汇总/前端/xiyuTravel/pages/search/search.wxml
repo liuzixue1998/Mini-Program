@@ -1,0 +1,17 @@
+<view class="container">
+  <view>
+    <input type="search"  class="search" />
+    <span>搜索</span>
+  </view>
+  <view class="hot">
+    <div>
+    <p>热门搜索</p>
+    <ul>
+      <li bindtap="pushbj">北京</li>
+      <li bindtap="pushsh">上海</li>
+      <li bindtap="pushtj">天津</li>
+      <li bindtap="pushcd">成都</li>
+    </ul>
+    </div>
+  </view>
+</view>
