@@ -1,86 +1,76 @@
-// pages/search/search.js
+var app = getApp();
+var searchValue = ''
+
+
 Page({
-
-  /**
-   * 页面的初始数据
-   */
   data: {
+    addflag: true,  //判断是否显示搜索框右侧部分 
+    searchstr: '',
+    centent_Show: true,
+    searchValue: '',
+    img: '',
+    nanshen_card: ''
+  },
+  onLoad() {
+
+  },
+  onShow() {
 
   },
 
-  /**
-   * 生命周期函数--监听页面加载
-   */
-  onLoad: function (options) {
+  tap(e) {
 
   },
 
-  /**
-   * 生命周期函数--监听页面初次渲染完成
-   */
-  onReady: function () {
-
+  // 搜索框右侧 事件
+  addhandle() {
+    console.log('触发搜索框右侧事件')
   },
 
-  /**
-   * 生命周期函数--监听页面显示
-   */
-  onShow: function () {
-
+  //搜索框输入时触发
+  searchList(ev) {
+    let e = ev.detail;
+    this.setData({
+      searchstr: e.detail.value
+    })
   },
-
-  /**
-   * 生命周期函数--监听页面隐藏
-   */
-  onHide: function () {
-
+  //搜索回调
+  endsearchList(e) {
+    console.log('查询数据')
   },
-
-  /**
-   * 生命周期函数--监听页面卸载
-   */
-  onUnload: function () {
-
+  // 取消搜索
+  cancelsearch() {
+    this.setData({
+      searchstr: ''
+    })
   },
+  //清空搜索框
+  activity_clear(e) {
 
-  /**
-   * 页面相关事件处理函数--监听用户下拉动作
-   */
-  onPullDownRefresh: function () {
-
-  },
-
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom: function () {
-
-  },
-
-  /**
-   * 用户点击右上角分享
-   */
-  onShareAppMessage: function () {
-
+    this.setData({
+      searchstr: ''
+    })
   },
   pushbj: function () {
     wx.navigateTo({
       url: '/pages/bj/bj',
     })
   },
-   pushcd: function () {
+  pushcd: function () {
     wx.navigateTo({
       url: '/pages/cd/cd',
     })
   },
-   pushsh: function () {
+  pushsh: function () {
     wx.navigateTo({
       url: '/pages/sh/sh',
     })
   },
-   pushtj: function () {
+  pushtj: function () {
     wx.navigateTo({
       url: '/pages/tj/tj',
     })
-  }
+  },
+  
+
 })

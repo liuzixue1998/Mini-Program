@@ -1,8 +1,9 @@
-<view class="container">
-  <view>
-    <input type="search"  class="search" />
-    <span>搜索</span>
-  </view>
+<!-- 搜索框 -->
+<view >
+    <SearchBar id="SearchBar" addflag="{{addflag}}" bind:addhandle="addhandle" searchstr="{{searchstr}}" bind:searchList="searchList" bind:endsearchList="endsearchList" bind:cancelsearch="cancelsearch" bind:activity_clear="activity_clear">
+    </SearchBar>
+  
+
   <view class="hot">
     <div>
     <p>热门搜索</p>
@@ -13,5 +14,10 @@
       <li bindtap="pushcd">成都</li>
     </ul>
     </div>
-  </view>
+  </view>   
 </view>
+
+
+
+
+

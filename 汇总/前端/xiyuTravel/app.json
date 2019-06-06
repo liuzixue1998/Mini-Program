@@ -13,7 +13,8 @@
     "pages/china/china",
     "pages/Singapore/Singapore",
     "pages/route/route",
-    "pages/search/search"
+    "pages/search/search",
+    "components/searchBox/searchBox"
   ],
   "window": {
     "backgroundTextStyle": "light",
