@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+@import "/wxSearch/wxSearch.wxss";
+=======
 .hot{
   margin-top: 60px;
 }
@@ -19,3 +22,4 @@ li{
   background-color: rgba(0,0,0,0.1);
   margin: 0rem 0.6rem 0.6rem 0.6rem;
 } 
+>>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2

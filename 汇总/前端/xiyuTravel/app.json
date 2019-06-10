@@ -14,7 +14,12 @@
     "pages/Singapore/Singapore",
     "pages/route/route",
     "pages/search/search",
+<<<<<<< HEAD
+    "pages/me/me",
+    "pages/scrollableTabView/index"
+=======
     "components/searchBox/searchBox"
+>>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -44,6 +49,12 @@
         "text": "攻略",
         "iconPath": "images/gonglve.png",
         "selectedIconPath": "images/gonglve.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "images/wode.png",
+        "selectedIconPath": "images/wode.png"
       }
     ]
   }

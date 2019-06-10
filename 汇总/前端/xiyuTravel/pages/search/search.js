@@ -1,3 +1,25 @@
+<<<<<<< HEAD
+//index.js
+//获取应用实例
+var WxSearch = require('../../wxSearch/wxSearch.js')
+var app = getApp()
+Page({
+  data: {
+    // wxSearchData:{
+    //   view:{
+    //     isShow: true
+    //   }
+    // }
+  },
+  onLoad: function () {
+    console.log('onLoad')
+    var that = this
+    //初始化的时候渲染wxSearchdata
+    WxSearch.init(that, 43, ['  ', '  ', '  ', '  ']);
+    WxSearch.initMindKeys(['weappdev.com', '微信小程序开发', '微信开发', '微信小程序']);
+  },
+  change1: function () {
+=======
 var app = getApp();
 var searchValue = ''
 
@@ -52,25 +74,76 @@ Page({
     })
   },
   pushbj: function () {
+>>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2
     wx.navigateTo({
       url: '/pages/bj/bj',
     })
   },
+<<<<<<< HEAD
+  change2: function () {
+=======
   pushcd: function () {
-    wx.navigateTo({
-      url: '/pages/cd/cd',
-    })
-  },
-  pushsh: function () {
-    wx.navigateTo({
-      url: '/pages/sh/sh',
-    })
-  },
-  pushtj: function () {
+>>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2
     wx.navigateTo({
       url: '/pages/tj/tj',
     })
   },
+<<<<<<< HEAD
+  change3: function () {
+=======
+  pushsh: function () {
+>>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2
+    wx.navigateTo({
+      url: '/pages/sh/sh',
+    })
+  },
+<<<<<<< HEAD
+  change4: function () {
+=======
+  pushtj: function () {
+>>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2
+    wx.navigateTo({
+      url: '/pages/cd/cd',
+    })
+  },
+<<<<<<< HEAD
+
+  wxSearchFn: function (e) {
+    var that = this
+    WxSearch.wxSearchAddHisKey(that);
+
+  },
+  wxSearchInput: function (e) {
+    var that = this
+    WxSearch.wxSearchInput(e, that);
+  },
+  wxSerchFocus: function (e) {
+    var that = this
+    WxSearch.wxSearchFocus(e, that);
+  },
+  wxSearchBlur: function (e) {
+    var that = this
+    WxSearch.wxSearchBlur(e, that);
+  },
+  wxSearchKeyTap: function (e) {
+    var that = this
+    WxSearch.wxSearchKeyTap(e, that);
+  },
+  wxSearchDeleteKey: function (e) {
+    var that = this
+    WxSearch.wxSearchDeleteKey(e, that);
+  },
+  wxSearchDeleteAll: function (e) {
+    var that = this;
+    WxSearch.wxSearchDeleteAll(that);
+  },
+  wxSearchTap: function (e) {
+    var that = this
+    WxSearch.wxSearchHiddenPancel(that);
+  }
+})
+=======
   
 
 })
+>>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2
