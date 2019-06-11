@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!--index.wxml-->
 
 <import src="/wxSearch/wxSearch.wxml"/>
@@ -10,28 +9,4 @@
   </view>
 </view>
 <template is="wxSearch" data="{{wxSearchData}}"/>
-=======
-<!-- 搜索框 -->
-<view >
-    <SearchBar id="SearchBar" addflag="{{addflag}}" bind:addhandle="addhandle" searchstr="{{searchstr}}" bind:searchList="searchList" bind:endsearchList="endsearchList" bind:cancelsearch="cancelsearch" bind:activity_clear="activity_clear">
-    </SearchBar>
-  
 
-  <view class="hot">
-    <div>
-    <p>热门搜索</p>
-    <ul>
-      <li bindtap="pushbj">北京</li>
-      <li bindtap="pushsh">上海</li>
-      <li bindtap="pushtj">天津</li>
-      <li bindtap="pushcd">成都</li>
-    </ul>
-    </div>
-  </view>   
-</view>
-
-
-
-
-
->>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2

@@ -14,12 +14,8 @@
     "pages/Singapore/Singapore",
     "pages/route/route",
     "pages/search/search",
-<<<<<<< HEAD
-    "pages/me/me",
-    "pages/scrollableTabView/index"
-=======
-    "components/searchBox/searchBox"
->>>>>>> 0a9d1a0eed7226794cdf9c8eaf1876995d75b2d2
+    "pages/me/me"
+
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -53,8 +49,8 @@
       {
         "pagePath": "pages/me/me",
         "text": "我的",
-        "iconPath": "images/wode.png",
-        "selectedIconPath": "images/wode.png"
+        "iconPath": "images/sself.png",
+        "selectedIconPath": "images/sself.png"
       }
     ]
   }
