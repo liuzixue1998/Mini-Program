@@ -1,2 +1,21 @@
-<!--pages/me/me.wxml-->
-<text>pages/me/me.wxml</text>
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class='tit1'>
+    <span class="tit1_1">我的收藏</span>
+  </view>
+  <view class='menuTab'>
+    <view class='menuLis {{actIndex=="first"?"actColor":""}}' id='first' bindtap="changeMenu">全部</view>
+    <view class='menuLis {{actIndex=="second"?"actColor":""}}' id='second' bindtap="changeMenu">游记</view>
+    <view class='menuLis {{actIndex=="third"?"actColor":""}}' id='third' bindtap="changeMenu">攻略</view>
+    <view class='menuLis {{actIndex=="fourth"?"actColor":""}}' id='fourth' bindtap="changeMenu">问答</view>
+    <view class='menuLis {{actIndex=="fifth"?"actColor":""}}' id='fifth' bindtap="changeMenu">线路</view>
+    <view class='menuLis {{actIndex=="sixth"?"actColor":""}}' id='sixth' bindtap="changeMenu">必体验</view>
+  </view>
+</view>
