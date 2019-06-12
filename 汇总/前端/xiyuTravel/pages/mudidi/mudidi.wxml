@@ -15,15 +15,15 @@
     <view bindtouchstart='touchStart' bindtouchend="touchEnd">
       <div class="sideslip">
         <div class="sl_div">
-            <image class="sl_pic" src="../../images/heb.png"></image> 
+            <image class="sl_pic" src="https://graph.baidu.com/resource/111f5949def2103b7b1ca01560237746.jpg"></image> 
             <span class="text2_01">哈尔滨</span>
         </div>
         <div class="sl_div">
-            <image class="sl_pic" src="../../images/cd.png"></image> 
+            <image class="sl_pic" src="https://graph.baidu.com/resource/111b0c20a56cedf625e7401560237778.jpg"></image> 
             <span class="text2_01">成都安顺</span>
         </div>
         <div class="sl_div">
-            <image class="sl_pic" src="../../images/xj.png"></image> 
+            <image class="sl_pic" src="https://graph.baidu.com/resource/111c306d2405ced6859d101560237797.jpg"></image> 
             <span class="text2_01">新疆</span>
         </div>
       </div>

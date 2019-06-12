@@ -31,3 +31,15 @@
 .wxParse-img {
   width: 100% !important;
 }
+
+.fav-icon{
+  width: 30rpx;
+  height: 30rpx;
+}
+.xinxin{
+  width: 5vw;
+  height: 5vw;
+  position: absolute;
+  top:20vw;
+  left: 27vw;
+}

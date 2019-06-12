@@ -38,15 +38,15 @@
     <p class='port'>——  推荐景点  ——</p>
     <div class='gray-3'></div>
     <div class='po1'>
-      <image src='../../images/port1.jpg' class='port-'></image>
+      <image src='https://graph.baidu.com/resource/111951ae89853378d672201560237565.jpg' class='port-'></image>
       <p class='po1-p'>埃及游轮</p>
     </div>
     <div class='po2'>
-      <image src='../../images/port2.jpg' class='port-'></image>
+      <image src='https://graph.baidu.com/resource/11181caeab04d777b3d2401560237589.jpg' class='port-'></image>
       <p class='po2-p'>西班牙</p>
     </div>
     <div class='po3'>
-      <image src='../../images/port3.jpg' class='port-'></image>
+      <image src='https://graph.baidu.com/resource/111f2044d1047e089049701560237633.jpg' class='port-'></image>
       <p class='po3-p'>泼水版纳</p>
     </div>
     

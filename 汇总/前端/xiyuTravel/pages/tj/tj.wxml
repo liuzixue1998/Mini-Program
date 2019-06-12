@@ -1,6 +1,6 @@
-<view>
+  <view>
   <div class='top'>
-    <image src='https://graph.baidu.com/resource/10186b4fdfa2c577b976801557367106.jpg' ></image>
+    <image src='https://graph.baidu.com/resource/111d403bf977a73052a6301560237213.jpg' ></image>
     <p>城市指南</p>
     <p class='gray'></p>
   </div>
@@ -10,23 +10,23 @@
     <p class='tj1-1'>最多人打卡</p> 
     <p class='tj1-2'>浪漫摩天轮</p>
 
-    <image class='tj2'  src='https://graph.baidu.com/resource/1014c4726a2dd174b0a9401557367905.jpg'></image>
+    <image class='tj2'  src='https://graph.baidu.com/resource/1111a0df42381894028a401560237249.jpg'></image>
     <p class='tj2-1'>我的文艺情怀</p> 
     <p class='tj2-2'>欣赏古洋楼</p>
 
-    <image class='tj3'   src='https://graph.baidu.com/resource/1014cda2f4bebf4fdff9a01557367980.jpg' ></image>
+    <image class='tj3'   src='https://graph.baidu.com/resource/111af1a35fdd27b995dc201560237277.jpg' ></image>
     <p class='tj3-1'>网红打卡地</p> 
     <p class='tj3-2'>一起许愿吧</p>
 
-    <image class='tj4'  src='https://graph.baidu.com/resource/101dc7850e31d73dc1bed01557369943.jpg'></image>
+    <image class='tj4'  src='https://graph.baidu.com/resource/1116f5fd4c4b45107aada01560237308.jpg'></image>
     <p class='tj4-1'>必吃美食系列</p> 
     <p class='tj4-2'>边逛边吃</p>
 
-    <image class='tj5'  src='https://graph.baidu.com/resource/101068e692f8c00f880e201557369967.jpg'></image>
+    <image class='tj5'  src='https://graph.baidu.com/resource/111d4c9bd78ff9cb944e501560237339.jpg'></image>
     <p class='tj5-1'>亲子总动员</p> 
     <p class='tj5-2'>趣味动物园</p>
 
-    <image class='tj6'   src='https://graph.baidu.com/resource/101cf6335606350c0b8e501557370005.jpg' ></image>
+    <image class='tj6'   src='https://graph.baidu.com/resource/1117d00661c741f57820501560237377.jpg' ></image>
     <p class='tj6-1'>夜游推荐</p> 
     <p class='tj6-2'>风情广场</p>
 
